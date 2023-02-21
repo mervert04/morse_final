@@ -1,4 +1,5 @@
-hello everyonew（￣︶￣）↗　
+hello everyone（￣︶￣）↗　
+
 Our project converting audio morse code to corresponding english alphabet
 What kind of problem does it solve?
 The problem is that many people don't know Morse code. In times of danger, she can
