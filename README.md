@@ -2,11 +2,11 @@ hello everyone（￣︶￣）↗　
 
 Our project converting audio morse code to corresponding english alphabet
 What kind of problem does it solve?
-The problem is that many people don't know Morse code. In times of danger, she can
+The problem is that many people don't know Morse code. In times of danger, it can
 save a lot of lives. But people usually miss the opportunity to save themselves or someone
 because of not knowing.
 
-We have been working on a project that will help solve the above problem. Namely ,
+We have been working on a project that will help solve the problem stated above. Namely ,
 with the help of our project , people will be able to learn Morse code . They can learn letters
 and then words . The main distinguishing feature is that they can work through the audio
 input and test themselves. In all sites where Morse code is translated , there is no function as
